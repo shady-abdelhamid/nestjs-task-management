@@ -1,0 +1,12 @@
+server:
+  port: 7000
+
+db:
+  host: '192.168.1.106'
+  username: 'postgres'
+  password: 'P@ssw0rd'
+  database: 'taskmanagement_test'
+  synchronize: true
+
+jwt:
+  secret: 'topSecret51_test'
